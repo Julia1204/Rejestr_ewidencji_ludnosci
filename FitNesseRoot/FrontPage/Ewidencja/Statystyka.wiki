@@ -1,0 +1,9 @@
+---
+Test
+---
+!include DodawanieObywatela
+!|testyfitnesse.TestStatystyka|
+|statystyka|oczekiwanyWynik|sprawdzStatystyke?|
+|1|50.0|true|
+|2|75.0|true|
+

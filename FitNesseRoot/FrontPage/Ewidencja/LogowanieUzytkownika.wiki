@@ -1,0 +1,13 @@
+---
+Test
+---
+!include DodawanieUzytkownika
+!|testyfitnesse.TestZalogujSie|
+|login|haslo|oczekiwanyStatus?|
+|login1|haslo1|1|
+|login2|haslo2|1|
+|login3|haslo3|2|
+|login4|haslo4|1|
+|login5|haslo5|2|
+|login6|haslo6|1|
+|login7|haslo7|2|

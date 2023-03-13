@@ -1,0 +1,9 @@
+---
+Test
+---
+!|testyfitnesse.TestDodawanieObywatela|
+|id|imie|nazwisko|pesel|dataUrodzenia|ulica|nrDomu|miasto|kodPocztowy|stanCywilny|wyksztalcenie|plec|numerDokumentu|obywatelstwo|statusSluzby|pozwolenieNaBron|dodajObywatela?|liczbaObywateli?|
+|1|Julia|Gosciniak|12345678911|2001-02-12|Legnicka|2|Wrocław|63-900|singiel|srednie|kobieta|f533|polskie|nie|nie|true|1|
+|2|Kasia|Nowak|12234543432|2010-04-12|Wroclawska|3|Leszno|63-600|singiel|wyzsze|kobieta|d232|polskie|nie|nie|true|2|
+|3|Ola|Kowalska|19809878987|2001-11-16|Poznanska|6|Wrocław|68-900|rozwiedziona|srednie|kobieta|d223|polskie|nie|nie|true|3|
+|4|Jan|Kowalski|98787867676|2011-02-12|Legnicka|8|Poznan|63-100|zonaty|srednie|mezczyzna|d231|polskie|nie|nie|true|4|

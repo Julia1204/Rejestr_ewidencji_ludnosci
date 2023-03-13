@@ -1,0 +1,12 @@
+---
+Test
+---
+!|testyfitnesse.TestDodawanieUzytkownika|
+|id|dane|dodajUzytkownika?|liczbaUzytkownikow?|
+|1|login1,haslo1,pracownik|true|1|
+|2|login2,haslo2,pracownik|true|2|
+|3|login3,haslo3,obywatel|true|3|
+|4|login4,haslo4,pracownik|true|4|
+|5|login5,haslo5,obyatel|true|5|
+|6|login6,haslo6,pracownik|true|6|
+|7|login7,haslo7,obywatel|true|7|

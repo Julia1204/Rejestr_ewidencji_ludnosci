@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20221219</FitNesseVersion>
+  <rootPath>Frontpage.Ewidencja.Statystyka</rootPath>
+  <result>
+    <counts>
+      <right>10</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <date>2023-01-26T10:31:59+01:00</date>
+    <runTimeInMillis>17</runTimeInMillis>
+    <content>&lt;div class="collapsible closed"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="Frontpage.Ewidencja.SetUp"&gt;.Frontpage.Ewidencja.SetUp&lt;/a&gt; &lt;a href="Frontpage.Ewidencja.SetUp?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;testyfitnesse.SetUp&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;div class="collapsible"&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='#' class='expandall'&gt;Expand&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='#' class='collapseall'&gt;Collapse&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+	&lt;p class="title"&gt;Included page: &lt;a href="Frontpage.Ewidencja.DodawanieObywatela"&gt;DodawanieObywatela&lt;/a&gt; &lt;a href="Frontpage.Ewidencja.DodawanieObywatela?edit&amp;amp;redirectToReferer=true&amp;amp;redirectAction=" class="edit"&gt;(edit)&lt;/a&gt;&lt;/p&gt;
+	&lt;div&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="18"&gt;testyfitnesse.TestDodawanieObywatela&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;id&lt;/td&gt;
+		&lt;td&gt;imie&lt;/td&gt;
+		&lt;td&gt;nazwisko&lt;/td&gt;
+		&lt;td&gt;pesel&lt;/td&gt;
+		&lt;td&gt;dataUrodzenia&lt;/td&gt;
+		&lt;td&gt;ulica&lt;/td&gt;
+		&lt;td&gt;nrDomu&lt;/td&gt;
+		&lt;td&gt;miasto&lt;/td&gt;
+		&lt;td&gt;kodPocztowy&lt;/td&gt;
+		&lt;td&gt;stanCywilny&lt;/td&gt;
+		&lt;td&gt;wyksztalcenie&lt;/td&gt;
+		&lt;td&gt;plec&lt;/td&gt;
+		&lt;td&gt;numerDokumentu&lt;/td&gt;
+		&lt;td&gt;obywatelstwo&lt;/td&gt;
+		&lt;td&gt;statusSluzby&lt;/td&gt;
+		&lt;td&gt;pozwolenieNaBron&lt;/td&gt;
+		&lt;td&gt;dodajObywatela?&lt;/td&gt;
+		&lt;td&gt;liczbaObywateli?&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;Julia&lt;/td&gt;
+		&lt;td&gt;Gosciniak&lt;/td&gt;
+		&lt;td&gt;12345678911&lt;/td&gt;
+		&lt;td&gt;2001-02-12&lt;/td&gt;
+		&lt;td&gt;Legnicka&lt;/td&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;Wrocław&lt;/td&gt;
+		&lt;td&gt;63-900&lt;/td&gt;
+		&lt;td&gt;singiel&lt;/td&gt;
+		&lt;td&gt;srednie&lt;/td&gt;
+		&lt;td&gt;kobieta&lt;/td&gt;
+		&lt;td&gt;f533&lt;/td&gt;
+		&lt;td&gt;polskie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+		&lt;td class="pass"&gt;1&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;Kasia&lt;/td&gt;
+		&lt;td&gt;Nowak&lt;/td&gt;
+		&lt;td&gt;12234543432&lt;/td&gt;
+		&lt;td&gt;2010-04-12&lt;/td&gt;
+		&lt;td&gt;Wroclawska&lt;/td&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;Leszno&lt;/td&gt;
+		&lt;td&gt;63-600&lt;/td&gt;
+		&lt;td&gt;singiel&lt;/td&gt;
+		&lt;td&gt;wyzsze&lt;/td&gt;
+		&lt;td&gt;kobieta&lt;/td&gt;
+		&lt;td&gt;d232&lt;/td&gt;
+		&lt;td&gt;polskie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+		&lt;td class="pass"&gt;2&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;3&lt;/td&gt;
+		&lt;td&gt;Ola&lt;/td&gt;
+		&lt;td&gt;Kowalska&lt;/td&gt;
+		&lt;td&gt;19809878987&lt;/td&gt;
+		&lt;td&gt;2001-11-16&lt;/td&gt;
+		&lt;td&gt;Poznanska&lt;/td&gt;
+		&lt;td&gt;6&lt;/td&gt;
+		&lt;td&gt;Wrocław&lt;/td&gt;
+		&lt;td&gt;68-900&lt;/td&gt;
+		&lt;td&gt;singiel&lt;/td&gt;
+		&lt;td&gt;srednie&lt;/td&gt;
+		&lt;td&gt;kobieta&lt;/td&gt;
+		&lt;td&gt;d223&lt;/td&gt;
+		&lt;td&gt;polskie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+		&lt;td class="pass"&gt;3&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;4&lt;/td&gt;
+		&lt;td&gt;Jan&lt;/td&gt;
+		&lt;td&gt;Kowalski&lt;/td&gt;
+		&lt;td&gt;98787867676&lt;/td&gt;
+		&lt;td&gt;2011-02-12&lt;/td&gt;
+		&lt;td&gt;Legnicka&lt;/td&gt;
+		&lt;td&gt;8&lt;/td&gt;
+		&lt;td&gt;Poznan&lt;/td&gt;
+		&lt;td&gt;63-100&lt;/td&gt;
+		&lt;td&gt;singiel&lt;/td&gt;
+		&lt;td&gt;srednie&lt;/td&gt;
+		&lt;td&gt;mezczyzna&lt;/td&gt;
+		&lt;td&gt;d231&lt;/td&gt;
+		&lt;td&gt;polskie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td&gt;nie&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+		&lt;td class="pass"&gt;4&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="3"&gt;testyfitnesse.TestStatystyka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;statystyka&lt;/td&gt;
+		&lt;td&gt;oczekiwanyWynik&lt;/td&gt;
+		&lt;td&gt;sprawdzStatystyke?&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;1&lt;/td&gt;
+		&lt;td&gt;100.0&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;2&lt;/td&gt;
+		&lt;td&gt;75.0&lt;/td&gt;
+		&lt;td class="pass"&gt;true&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;</content>
+    <relativePageName>Statystyka</relativePageName>
+  </result>
+  <executionLog>
+    <testSystem>fit:fit.FitServer</testSystem>
+    <command>/Library/Java/JavaVirtualMachines/jdk-17.0.5.jdk/Contents/Home/bin/java -cp /Users/julia/Projects/Codespace/IdeaProjects/Ewidencja ludnosci/target/classes:/Users/julia/.m2/repository/org/fitnesse/fitnesse/20221219/fitnesse-20221219.jar fit.FitServer MacBook-Pro-Julia-3.local 49176 3863</command>
+    <exitCode>0</exitCode>
+    <stdOut>Julia
+Gosciniak
+12345678911
+2001-02-12
+Legnicka
+2
+Wrocław
+63-900
+singiel
+srednie
+kobieta
+f533
+singiel
+polskie
+nie
+nie
+Kasia
+Nowak
+12234543432
+2010-04-12
+Wroclawska
+3
+Leszno
+63-600
+singiel
+wyzsze
+kobieta
+d232
+singiel
+polskie
+nie
+nie
+Ola
+Kowalska
+19809878987
+2001-11-16
+Poznanska
+6
+Wrocław
+68-900
+singiel
+srednie
+kobieta
+d223
+singiel
+polskie
+nie
+nie
+Jan
+Kowalski
+98787867676
+2011-02-12
+Legnicka
+8
+Poznan
+63-100
+singiel
+srednie
+mezczyzna
+d231
+singiel
+polskie
+nie
+nie
+Procent singli wynosi 100.0 spośród 4obywateli
+Procent mężczyzn wynosi 25.0 spośród 4obywateli
+Procent kobiet wynosi 75.0 spośród 4obywateli
+</stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>273</totalRunTimeInMillis>
+</testResults>
+

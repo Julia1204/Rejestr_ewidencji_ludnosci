@@ -1,0 +1,7 @@
+|Frontpage.Ewidencja.Statystyka||10:37:32 czw., sty 26, 2023|
+|Frontpage.Ewidencja.DodawanieObywatela||10:37:14 czw., sty 26, 2023|
+|Frontpage.Ewidencja.DodawanieUzytkownika||22:14:56 wt., sty 24, 2023|
+|Frontpage.Ewidencja.LogowanieUzytkownika||21:15:25 wt., sty 24, 2023|
+|Frontpage.Ewidencja.SetUp||19:34:11 wt., sty 24, 2023|
+|FrontPage||19:08:58 wt., sty 24, 2023|
+|FrontPage.Ewidencja||19:05:09 wt., sty 24, 2023|
